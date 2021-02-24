@@ -8,8 +8,8 @@ Developed in Processing 3.3.6 (https://processing.org/)
 ### Usage
 Put your icon image in /data folder
 
-Make sure either your filename is "iconMaster.jpg" <\br>
-OR <\br>
+Make sure either your filename is "iconMaster.jpg"  
+OR  
 Fix this line of code with your filename: masterImg = loadImage("YOURFILENAME.jpg");
 
 There is a PVector array named "resolutions" which stores all the resolutions the code exports, add and remove resolutions to your needs.
