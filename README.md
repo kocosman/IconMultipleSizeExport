@@ -10,7 +10,7 @@ Put your icon image in /data folder
 
 Make sure either your filename is "iconMaster.jpg"  
 OR  
-Fix this line of code with your filename: masterImg = loadImage("YOURFILENAME.jpg");
+Fix this line of code with your filename: **masterImg = loadImage("YOURFILENAME.jpg");**
 
 There is a PVector array named "resolutions" which stores all the resolutions the code exports, add and remove resolutions to your needs.
 Hit play. The code will save all the icons with different resolutions in the same directory with the code. 
